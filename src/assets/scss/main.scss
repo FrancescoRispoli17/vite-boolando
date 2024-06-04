@@ -3,3 +3,10 @@
 @use './partials/typography' as *;
 @use './partials/utils' as *;
 @use './partials/variables' as *;
+
+.container{
+    @include container();
+}
+.row{
+    @include row();
+}

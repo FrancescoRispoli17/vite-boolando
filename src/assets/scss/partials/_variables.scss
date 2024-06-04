@@ -1,0 +1,11 @@
+$header-color:#FF6801;
+
+@mixin container{
+    margin: 0 auto;
+    width: 1000px;
+}
+@mixin row{
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
