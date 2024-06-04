@@ -32,6 +32,9 @@
                 </div>
                 <div class="col">
                     <img src="../assets/img/boolean-logo.png" alt="logo">
+                    <font-awesome-icon icon="fa-solid fa-user-secret" />
+
+                    
                 </div>
                 <div class="col">
                     
