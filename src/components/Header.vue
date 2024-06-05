@@ -31,13 +31,12 @@
                     </ul>
                 </div>
                 <div class="col">
-                    <img src="../assets/img/boolean-logo.png" alt="logo">
-                    <font-awesome-icon icon="fa-solid fa-user-secret" />
-
-                    
+                    <img src="../assets/img/boolean-logo.png" alt="logo">  
                 </div>
                 <div class="col">
-                    
+                    <span><font-awesome-icon icon="fa-regular fa-user" /></span>
+                    <span><font-awesome-icon icon="fa-solid fa-heart" /></span>
+                    <span><font-awesome-icon icon="fa-solid fa-lock" /></span>
                 </div>
             </div>
         </div>
@@ -56,6 +55,9 @@ header{
     img{
         width: 150px;
         margin: 0 10rem;
+    }
+    span{
+        margin: 0 5px;
     }
 }
 </style>

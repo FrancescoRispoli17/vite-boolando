@@ -1,0 +1,11 @@
+@use './variables' as *;
+.labels{
+
+    p{
+        margin-right: 5px;
+        padding: 7px;
+        color: $image-p-color;
+        font-weight: 600;
+        font-size: 13px;
+    }
+}

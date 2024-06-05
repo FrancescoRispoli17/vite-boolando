@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "frontImage": "2.webp",
+      "frontImage": "../assets/img/2.webp",
       "backImage": "2b.webp",
       "brand": "Guess",
       "name": "Roses Tee",
@@ -35,7 +35,7 @@
     },
     {
       "id": 3,
-      "frontImage": "3.webp",
+      "frontImage": "../assets/img/3.webp",
       "backImage": "3b.webp",
       "brand": "Come Zucchero Filato",
       "name": "Voglia di colori pastello",
@@ -50,7 +50,7 @@
     },
     {
       "id": 4,
-      "frontImage": "4.webp",
+      "frontImage": "../assets/img/4.webp",
       "backImage": "4b.webp",
       "brand": "Levi's",
       "name": "Tee Unisex",
@@ -69,7 +69,7 @@
     },
     {
       "id": 5,
-      "frontImage": "5.webp",
+      "frontImage": "../assets/img/5.webp",
       "backImage": "5b.webp",
       "brand": "Maya Deluxe",
       "name": "Stripe Bodice",
@@ -88,7 +88,7 @@
     },
     {
       "id": 6,
-      "frontImage": ".webp",
+      "frontImage": "../assets/img/6.webp",
       "backImage": "6b.webp",
       "brand": "Esprit",
       "name": "Maglione - Black",

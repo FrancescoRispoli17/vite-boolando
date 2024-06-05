@@ -17,7 +17,7 @@ import Product from './Product.vue';
 <template>
     <div class="container">
         <div class="row">
-            <Product v-for="prodotto in products"
+            <Product v-for="(prodotto) in products"
                 :prodotto="prodotto"
             />
         </div>
